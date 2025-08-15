@@ -1,4 +1,4 @@
-# Agroflow
+# Siembra pais 
 
 Agroflow es un sistema moderno para la gestión de fincas, agricultores, parcelas, inspecciones y financiamiento agrícola. Está construido con React 18, Vite y TailwindCSS, e integra Supabase como backend para autenticación y base de datos. Incluye paneles de control, gestión de usuarios y visualización de datos agrícolas.
 
@@ -217,11 +217,10 @@ src/
    ```
 
 4. Inicia el servidor de desarrollo:
-   ```bash
-   npm run dev
-   # o
-   yarn dev
-   ```
+   ``
+   npm start
+   npm run start  
+   ``
 
 ## 🏗️ Construcción para Producción
 
@@ -267,12 +266,13 @@ Distribuido bajo la licencia MIT. Consulta el archivo `LICENSE` para más inform
 
 ## 📧 Contacto
 
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - email@ejemplo.com
+DEIkrip- deikermadridmanz@gmail.com
 
-Enlace del Proyecto: [https://github.com/tu-usuario/agroflow](https://github.com/tu-usuario/agroflow)
+Enlace del Proyecto: [https://github.com/DEIKRIP/agroflow](https://github.com/DEIKRIP/agroflow)
 
 ## 🙏 Agradecimientos
 
 - [Supabase](https://supabase.com/) por su increíble plataforma
 - [TailwindCSS](https://tailwindcss.com/) por los estilos
 - La comunidad de código abierto
+-ING FRANCISCO QUIJADA POR LA IDEA 💡
